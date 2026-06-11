@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Fawaz
 
-<!--
-**fxwaz/fxwaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student interested in software development and problem solving.
 
-Here are some ideas to get you started:
+I'm currently building my foundation in programming, databases, and web development, with the goal of becoming a Full-Stack Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Learning
+
+- C++
+- C#
+- Problem Solving
+- Object-Oriented Programming
+- SQL
+- ADO.NET
+- ASP.NET
+
+Interests
+
+- Software Development
+- Full-Stack Development
+- Backend Development
+- Databases
+- Problem Solving
+
+About This GitHub
+
+This is where I document my learning journey, practice, and projects as I improve step by step.
