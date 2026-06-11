@@ -1,4 +1,4 @@
-# Hi, I'm Fawaz
+# Hi, I'm Fawaz Alzahrani
 
 I'm a Computer Science student interested in software development and problem solving.
 
