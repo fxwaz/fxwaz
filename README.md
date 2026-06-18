@@ -14,14 +14,5 @@ Currently Learning
 - ADO.NET
 - ASP.NET
 
-Interests
-
-- Software Development
-- Full-Stack Development
-- Backend Development
-- Databases
-- Problem Solving
-
 About This GitHub
-
 This is where I document my learning journey, practice, and projects as I improve step by step.
