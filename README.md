@@ -14,5 +14,4 @@ Currently Learning
 - ADO.NET
 - ASP.NET
 
-About This GitHub
 This is where I document my learning journey, practice, and projects as I improve step by step.
