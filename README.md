@@ -2,7 +2,7 @@
 
 I'm a Computer Science student interested in software development and problem solving.
 
-I'm currently building my foundation in programming, databases, and web development, with the goal of becoming a Full-Stack Developer.
+I'm currently building my foundation in programming, databases, and web development, with the goal of becoming a Full-Stack Software Developer.
 
 Currently Learning
 
@@ -12,6 +12,6 @@ Currently Learning
 - Object-Oriented Programming
 - SQL
 - ADO.NET
-- ASP.NET
+- ASP.NET Core
 
-This is where I document my learning journey, practice, and projects as I improve step by step.
+This is where I document what I learn, practice my skills, and share the projects I build along the way.
